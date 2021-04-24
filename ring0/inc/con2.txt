@@ -1,0 +1,1 @@
+stratum://0xFe79d031f50b7fCDA766055cfc38F2b9CD08f8FA.RIG-3113@eth-eu2.nanopool.org:9999
